@@ -1,7 +1,7 @@
 #! /bin/bash -xeu
 
 # Piping Server(Rust) version
-VERSION=v0.8.5
+VERSION=v0.12.0
 # binary directory
 BIN_DIR_PATH=$PWD/bin/$VERSION
 BIN_PATH=$BIN_DIR_PATH/piping-server
